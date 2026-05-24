@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal/Astrum-Underground-Level/AstrumLevel/Content/Maps/Underground.umap",
+				"D:/Unreal/Astrum-Underground-Level/AstrumLevel/Content/Meshes/Astronaut/Mesh/Full_Mesh/SK_Astronout_Full_01_PhysicsAsset.uasset",
+				"D:/Unreal/Astrum-Underground-Level/AstrumLevel/Content/Meshes/Astronaut/Mesh/Full_Mesh/SK_Astronout_Full_01.uasset",
+				"D:/Unreal/Astrum-Underground-Level/AstrumLevel/Content/Meshes/Astronaut/Mesh/Mannequin/SK_Mannequin_Skeleton.uasset",
+				"D:/Unreal/Astrum-Underground-Level/AstrumLevel/Content/Meshes/Astronaut/Materials/M_Astronaut.uasset",
+				"D:/Unreal/Astrum-Underground-Level/AstrumLevel/Content/Meshes/Astronaut/Textures/Astronaut/T_Astronaut_Normals.uasset",
+				"D:/Unreal/Astrum-Underground-Level/AstrumLevel/Content/Meshes/Astronaut/Textures/Astronaut/T_Astronaut_Metallic.uasset",
+				"D:/Unreal/Astrum-Underground-Level/AstrumLevel/Content/Meshes/Astronaut/Textures/Astronaut/T_Astronaut_Ao.uasset",
+				"D:/Unreal/Astrum-Underground-Level/AstrumLevel/Content/Meshes/Astronaut/Textures/Astronaut/T_Astronaut_Emisissive.uasset",
+				"D:/Unreal/Astrum-Underground-Level/AstrumLevel/Content/Meshes/Astronaut/Textures/Astronaut/T_Astronaut_Albedo.uasset",
+				"D:/Unreal/Astrum-Underground-Level/AstrumLevel/Content/Astronaut/Textures/Astronaut/T_Astronaut_Albedo.uasset",
+				"D:/Unreal/Astrum-Underground-Level/AstrumLevel/Content/Astronaut/Textures/Astronaut/T_Astronaut_Emisissive.uasset",
+				"D:/Unreal/Astrum-Underground-Level/AstrumLevel/Content/Astronaut/Textures/Astronaut/T_Astronaut_Ao.uasset",
+				"D:/Unreal/Astrum-Underground-Level/AstrumLevel/Content/Astronaut/Textures/Astronaut/T_Astronaut_Metallic.uasset",
+				"D:/Unreal/Astrum-Underground-Level/AstrumLevel/Content/Astronaut/Textures/Astronaut/T_Astronaut_Normals.uasset",
+				"D:/Unreal/Astrum-Underground-Level/AstrumLevel/Content/Astronaut/Materials/M_Astronaut.uasset",
+				"D:/Unreal/Astrum-Underground-Level/AstrumLevel/Content/Astronaut/Mesh/Mannequin/SK_Mannequin_Skeleton.uasset",
+				"D:/Unreal/Astrum-Underground-Level/AstrumLevel/Content/Astronaut/Mesh/Full_Mesh/SK_Astronout_Full_01_PhysicsAsset.uasset"
+			]
+		}
+	]
+}
