@@ -10253,3 +10253,95 @@ Sampler Limit: 32
 [2026.05.29-12.14.10:612][350]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.29-12.14.10:612][350]AssetCheck: /Game/Maps/Underground Validating asset
 [2026.05.29-12.17.28:856][941]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.29-12.18.30:947][168]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10845.314453
+[2026.05.29-12.18.31:947][171]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-12.18.31:947][171]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10845.981445, Update Interval: 319.821777
+[2026.05.29-12.18.38:048][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.05.29-12.18.39:387][189]LogSlate: Window 'Save Content' being destroyed
+[2026.05.29-12.18.39:410][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.29-12.18.39:474][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Magic_crystal/magic_crystal/Materials/Crital_3_cBox004SG] ([1] browsable assets)...
+[2026.05.29-12.18.39:474][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Magic_crystal/magic_crystal/Materials/Crital_3_cBox004SG]
+[2026.05.29-12.18.39:485][189]LogSavePackage: Moving output files for package: /Game/Fab/Magic_crystal/magic_crystal/Materials/Crital_3_cBox004SG
+[2026.05.29-12.18.39:486][189]LogSavePackage: Moving '../../../../Astrum-Underground-Level/AstrumLevel/Saved/Crital_3_cBox004SG2D9F1BD94AA73200CA58B0A16612CAF1.tmp' to '../../../../Astrum-Underground-Level/AstrumLevel/Content/Fab/Magic_crystal/magic_crystal/Materials/Crital_3_cBox004SG.uasset'
+[2026.05.29-12.18.39:487][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Magic_crystal/magic_crystal/Materials/Crital_3_gBox004SG] ([1] browsable assets)...
+[2026.05.29-12.18.39:487][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Magic_crystal/magic_crystal/Materials/Crital_3_gBox004SG]
+[2026.05.29-12.18.39:495][189]LogSavePackage: Moving output files for package: /Game/Fab/Magic_crystal/magic_crystal/Materials/Crital_3_gBox004SG
+[2026.05.29-12.18.39:495][189]LogSavePackage: Moving '../../../../Astrum-Underground-Level/AstrumLevel/Saved/Crital_3_gBox004SG14DD17B2435DF2E297FEDC91B4F145D8.tmp' to '../../../../Astrum-Underground-Level/AstrumLevel/Content/Fab/Magic_crystal/magic_crystal/Materials/Crital_3_gBox004SG.uasset'
+[2026.05.29-12.18.39:496][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SoulCave/Environment/Materials/Nature/M_Soul_Plants] ([1] browsable assets)...
+[2026.05.29-12.18.39:496][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/SoulCave/Environment/Materials/Nature/M_Soul_Plants]
+[2026.05.29-12.18.39:504][189]LogSavePackage: Moving output files for package: /Game/SoulCave/Environment/Materials/Nature/M_Soul_Plants
+[2026.05.29-12.18.39:505][189]LogSavePackage: Moving '../../../../Astrum-Underground-Level/AstrumLevel/Saved/M_Soul_Plants08FECADA4AFF3BD2E863F8AB102A277E.tmp' to '../../../../Astrum-Underground-Level/AstrumLevel/Content/SoulCave/Environment/Materials/Nature/M_Soul_Plants.uasset'
+[2026.05.29-12.18.39:506][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Magic_crystal/magic_crystal/Textures/magic_crystal_texture_14] ([1] browsable assets)...
+[2026.05.29-12.18.39:506][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Magic_crystal/magic_crystal/Textures/magic_crystal_texture_14]
+[2026.05.29-12.18.39:539][189]LogSavePackage: Moving output files for package: /Game/Fab/Magic_crystal/magic_crystal/Textures/magic_crystal_texture_14
+[2026.05.29-12.18.39:540][189]LogSavePackage: Moving '../../../../Astrum-Underground-Level/AstrumLevel/Saved/magic_crystal_texture_144A5C6D5B4CCDCB68FE2F0FB9C3383250.tmp' to '../../../../Astrum-Underground-Level/AstrumLevel/Content/Fab/Magic_crystal/magic_crystal/Textures/magic_crystal_texture_14.uasset'
+[2026.05.29-12.18.39:542][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Magic_crystal/magic_crystal/Textures/magic_crystal_texture_18] ([1] browsable assets)...
+[2026.05.29-12.18.39:542][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Magic_crystal/magic_crystal/Textures/magic_crystal_texture_18]
+[2026.05.29-12.18.39:558][189]LogSavePackage: Moving output files for package: /Game/Fab/Magic_crystal/magic_crystal/Textures/magic_crystal_texture_18
+[2026.05.29-12.18.39:559][189]LogSavePackage: Moving '../../../../Astrum-Underground-Level/AstrumLevel/Saved/magic_crystal_texture_182101BBF24A5C80A6046FC0A49899269C.tmp' to '../../../../Astrum-Underground-Level/AstrumLevel/Content/Fab/Magic_crystal/magic_crystal/Textures/magic_crystal_texture_18.uasset'
+[2026.05.29-12.18.39:560][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Magic_crystal/magic_crystal/Textures/magic_crystal_texture_22] ([1] browsable assets)...
+[2026.05.29-12.18.39:560][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Magic_crystal/magic_crystal/Textures/magic_crystal_texture_22]
+[2026.05.29-12.18.39:574][189]LogSavePackage: Moving output files for package: /Game/Fab/Magic_crystal/magic_crystal/Textures/magic_crystal_texture_22
+[2026.05.29-12.18.39:574][189]LogSavePackage: Moving '../../../../Astrum-Underground-Level/AstrumLevel/Saved/magic_crystal_texture_22910B00B347F09E3180A25F8FD6DF2A11.tmp' to '../../../../Astrum-Underground-Level/AstrumLevel/Content/Fab/Magic_crystal/magic_crystal/Textures/magic_crystal_texture_22.uasset'
+[2026.05.29-12.18.39:576][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Magic_crystal/magic_crystal/Textures/magic_crystal_texture_26] ([1] browsable assets)...
+[2026.05.29-12.18.39:576][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Magic_crystal/magic_crystal/Textures/magic_crystal_texture_26]
+[2026.05.29-12.18.39:609][189]LogSavePackage: Moving output files for package: /Game/Fab/Magic_crystal/magic_crystal/Textures/magic_crystal_texture_26
+[2026.05.29-12.18.39:609][189]LogSavePackage: Moving '../../../../Astrum-Underground-Level/AstrumLevel/Saved/magic_crystal_texture_26F9A7039D4BACA4226A7EE29436971C52.tmp' to '../../../../Astrum-Underground-Level/AstrumLevel/Content/Fab/Magic_crystal/magic_crystal/Textures/magic_crystal_texture_26.uasset'
+[2026.05.29-12.18.39:611][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Stylized_Crystal_Cluster_💎/stylized_crystal_cluster/Textures/stylized_crystal_cluster_texture_2] ([1] browsable assets)...
+[2026.05.29-12.18.39:611][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Stylized_Crystal_Cluster_💎/stylized_crystal_cluster/Textures/stylized_crystal_cluster_texture_2]
+[2026.05.29-12.18.39:648][189]LogSavePackage: Moving output files for package: /Game/Fab/Stylized_Crystal_Cluster_💎/stylized_crystal_cluster/Textures/stylized_crystal_cluster_texture_2
+[2026.05.29-12.18.39:648][189]LogSavePackage: Moving '../../../../Astrum-Underground-Level/AstrumLevel/Saved/stylized_crystal_cluster_texture9CB76EB1441BF4D785F3AD910FB238DA.tmp' to '../../../../Astrum-Underground-Level/AstrumLevel/Content/Fab/Stylized_Crystal_Cluster_💎/stylized_crystal_cluster/Textures/stylized_crystal_cluster_texture_2.uasset'
+[2026.05.29-12.18.39:657][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 247.565 ms (total: 19.5 sec)
+[2026.05.29-12.18.39:743][189]LogStall: Shutdown...
+[2026.05.29-12.18.39:743][189]LogStall: Shutdown complete.
+[2026.05.29-12.18.39:823][189]LogSlate: Window 'AstrumLevel - Unreal Editor' being destroyed
+[2026.05.29-12.18.41:541][189]LogContentValidation: Display: Starting to validate 8 assets
+[2026.05.29-12.18.41:542][189]LogContentValidation: Enabled validators:
+[2026.05.29-12.18.41:542][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.29-12.18.41:542][189]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.29-12.18.41:542][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.29-12.18.41:542][189]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.29-12.18.41:542][189]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.29-12.18.41:542][189]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.29-12.18.41:542][189]AssetCheck: /Game/Fab/Magic_crystal/magic_crystal/Materials/Crital_3_cBox004SG Validating asset
+[2026.05.29-12.18.41:542][189]AssetCheck: /Game/Fab/Magic_crystal/magic_crystal/Materials/Crital_3_gBox004SG Validating asset
+[2026.05.29-12.18.41:542][189]AssetCheck: /Game/SoulCave/Environment/Materials/Nature/M_Soul_Plants Validating asset
+[2026.05.29-12.18.41:542][189]AssetCheck: /Game/Fab/Magic_crystal/magic_crystal/Textures/magic_crystal_texture_14 Validating asset
+[2026.05.29-12.18.41:542][189]AssetCheck: /Game/Fab/Magic_crystal/magic_crystal/Textures/magic_crystal_texture_18 Validating asset
+[2026.05.29-12.18.41:542][189]AssetCheck: /Game/Fab/Magic_crystal/magic_crystal/Textures/magic_crystal_texture_22 Validating asset
+[2026.05.29-12.18.41:542][189]AssetCheck: /Game/Fab/Magic_crystal/magic_crystal/Textures/magic_crystal_texture_26 Validating asset
+[2026.05.29-12.18.41:542][189]AssetCheck: /Game/Fab/Stylized_Crystal_Cluster_💎/stylized_crystal_cluster/Textures/stylized_crystal_cluster_texture_2 Validating asset
+[2026.05.29-12.18.41:545][189]Cmd: QUIT_EDITOR
+[2026.05.29-12.18.41:545][189]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.05.29-12.18.41:620][190]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.05.29-12.18.41:647][190]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.05.29-12.18.41:647][190]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.05.29-12.18.41:779][190]LogWorld: UWorld::CleanupWorld for Underground, bSessionEnded=true, bCleanupResources=true
+[2026.05.29-12.18.41:780][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.29-12.18.41:790][190]LogWorld: UWorld::CleanupWorld for LV_Soul_Cave, bSessionEnded=true, bCleanupResources=true
+[2026.05.29-12.18.41:790][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.29-12.18.41:946][190]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.05.29-12.18.41:961][190]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.05.29-12.18.42:073][190]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.05.29-12.18.42:266][190]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.05.29-12.18.42:267][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.29-12.18.42:267][190]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.05.29-12.18.42:267][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.29-12.18.42:400][190]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.05.29-12.18.42:416][190]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.05.29-12.18.42:456][190]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.05.29-12.18.43:010][190]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.05.29-12.18.43:010][190]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.05.29-12.18.43:010][190]LogAudio: Display: Audio Device unregistered from world 'Underground'.
+[2026.05.29-12.18.43:010][190]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.05.29-12.18.43:010][190]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.05.29-12.18.43:013][190]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.05.29-12.18.43:021][190]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.05.29-12.18.43:041][190]LogAudio: Display: Audio Device Manager Shutdown
+[2026.05.29-12.18.43:093][190]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.05.29-12.18.43:093][190]LogExit: Preparing to exit.
+[2026.05.29-12.18.43:838][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.05.29-12.18.45:232][190]LogEditorDataStorage: Deinitializing
+[2026.05.29-12.18.47:177][190]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.05.29-12.18.48:235][190]LogExit: Editor shut down
+[2026.05.29-12.18.48:243][190]LogExit: Transaction tracking system shut down
