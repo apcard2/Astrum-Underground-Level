@@ -9969,3 +9969,287 @@ Sampler Limit: 32
 [2026.05.29-12.00.17:569][398]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9751.931641
 [2026.05.29-12.00.17:869][418]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.29-12.00.17:870][418]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9752.204102, Update Interval: 323.720215
+[2026.05.29-12.01.54:661][935]Cmd: EDIT COPY
+[2026.05.29-12.01.55:049][971]Cmd: EDIT PASTE
+[2026.05.29-12.04.22:487][239]Cmd: TRANSACTION UNDO
+[2026.05.29-12.04.22:487][239]LogEditorTransaction: Undo Move Elements
+[2026.05.29-12.04.33:763][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.29-12.04.33:837][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Underground" FILE="../../../../Astrum-Underground-Level/AstrumLevel/Content/Maps/Underground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.29-12.04.33:994][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.05.29-12.04.34:578][ 77]LogSavePackage: Moving output files for package: /Game/Maps/Underground
+[2026.05.29-12.04.34:579][ 77]LogSavePackage: Moving '../../../../Astrum-Underground-Level/AstrumLevel/Saved/Underground950123F44C4FCEF5648813B70B072F6F.tmp' to '../../../../Astrum-Underground-Level/AstrumLevel/Content/Maps/Underground.umap'
+[2026.05.29-12.04.34:595][ 77]LogFileHelpers: Saving map 'Underground' took 0.759
+[2026.05.29-12.04.34:602][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 838.350 ms (total: 16.6 sec)
+[2026.05.29-12.04.34:668][ 77]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.29-12.04.34:668][ 77]LogContentValidation: Enabled validators:
+[2026.05.29-12.04.34:668][ 77]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.29-12.04.34:668][ 77]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.29-12.04.34:668][ 77]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.29-12.04.34:668][ 77]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.29-12.04.34:668][ 77]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.29-12.04.34:668][ 77]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.29-12.04.34:668][ 77]AssetCheck: /Game/Maps/Underground Validating asset
+[2026.05.29-12.04.53:650][685]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.29-12.04.53:658][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.29-12.04.53:688][685]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Underground
+[2026.05.29-12.04.53:795][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.106968s)
+[2026.05.29-12.04.53:795][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Underground.Underground to /Game/Maps/UEDPIE_0_Underground.Underground (0.107031s)
+[2026.05.29-12.04.53:808][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.05.29-12.04.53:815][685]LogChaosDD: Creating Chaos Debug Draw Scene for world Underground
+[2026.05.29-12.04.53:847][685]LogPlayLevel: PIE: World Init took: (0.031282s)
+[2026.05.29-12.04.53:848][685]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.05.29-12.04.53:848][685]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.29-12.04.53:848][685]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.29-12.04.53:848][685]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.29-12.04.53:848][685]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.29-12.04.53:848][685]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.29-12.04.53:848][685]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.29-12.04.53:848][685]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.29-12.04.53:848][685]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.29-12.04.53:848][685]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.29-12.04.53:848][685]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.29-12.04.53:848][685]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.29-12.04.53:850][685]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.29-12.04.53:869][685]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.05.29-12.04.53:871][685]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.29-12.04.53:871][685]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.29-12.04.53:871][685]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.29-12.04.53:871][685]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.05.29-12.04.53:871][685]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.05.29-12.04.53:874][685]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.05.29-12.04.53:874][685]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.05.29-12.04.53:874][685]LogInit: FAudioDevice initialized with ID 3.
+[2026.05.29-12.04.53:874][685]LogAudio: Display: Audio Device (ID: 3) registered with world 'Underground'.
+[2026.05.29-12.04.53:874][685]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.05.29-12.04.53:880][685]LogLoad: Game class is 'MyGame_C'
+[2026.05.29-12.04.53:893][685]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Underground.Underground up for play (max tick rate 0) at 2026.05.29-21.04.53
+[2026.05.29-12.04.53:924][685]LogWorld: Bringing up level for play took: 0.043760
+[2026.05.29-12.04.53:927][685]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.05.29-12.04.53:928][685]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2026.05.29-12.04.53:928][685]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2026.05.29-12.04.53:928][685]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2026.05.29-12.04.53:930][685]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2026.05.29-12.04.53:931][685]PIE: Server logged in
+[2026.05.29-12.04.53:933][685]PIE: Play in editor total start time 0,277 seconds.
+[2026.05.29-12.04.54:089][686]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 768
+[2026.05.29-12.05.04:239][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.29-12.05.04:239][315]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Underground
+[2026.05.29-12.05.04:241][315]LogWorld: UWorld::CleanupWorld for Underground, bSessionEnded=true, bCleanupResources=true
+[2026.05.29-12.05.04:244][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.29-12.05.04:246][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.29-12.05.04:249][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.29-12.05.04:266][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.29-12.05.04:271][315]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.05.29-12.05.04:271][315]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.05.29-12.05.04:273][315]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.05.29-12.05.04:283][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.05.29-12.05.04:357][316]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.05.29-12.06.26:854][601]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10121.244141
+[2026.05.29-12.06.27:098][625]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-12.06.27:098][625]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10121.479492, Update Interval: 303.425995
+[2026.05.29-12.06.42:597][951]Cmd: EDIT COPY
+[2026.05.29-12.06.43:310][ 17]Cmd: EDIT PASTE
+[2026.05.29-12.07.50:611][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.29-12.07.50:662][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Underground" FILE="../../../../Astrum-Underground-Level/AstrumLevel/Content/Maps/Underground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.29-12.07.51:008][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.05.29-12.07.51:643][528]LogSavePackage: Moving output files for package: /Game/Maps/Underground
+[2026.05.29-12.07.51:644][528]LogSavePackage: Moving '../../../../Astrum-Underground-Level/AstrumLevel/Saved/Underground51F1E09E4B7C1ADD63D7479A908FDFD4.tmp' to '../../../../Astrum-Underground-Level/AstrumLevel/Content/Maps/Underground.umap'
+[2026.05.29-12.07.51:658][528]LogFileHelpers: Saving map 'Underground' took 0.998
+[2026.05.29-12.07.51:666][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.05 sec (total: 17.7 sec)
+[2026.05.29-12.07.51:728][528]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.29-12.07.51:728][528]LogContentValidation: Enabled validators:
+[2026.05.29-12.07.51:728][528]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.29-12.07.51:728][528]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.29-12.07.51:728][528]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.29-12.07.51:728][528]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.29-12.07.51:728][528]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.29-12.07.51:728][528]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.29-12.07.51:729][528]AssetCheck: /Game/Maps/Underground Validating asset
+[2026.05.29-12.08.02:850][458]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Magic_crystal/magic_crystal/StaticMeshes/magic_crystal.magic_crystal
+[2026.05.29-12.08.02:850][458]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Magic_crystal/magic_crystal/StaticMeshes/magic_crystal.magic_crystal
+[2026.05.29-12.08.02:851][458]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Magic_crystal/magic_crystal/StaticMeshes/magic_crystal.magic_crystal as actor: StaticMeshActor /Game/Maps/Underground.Underground:PersistentLevel.StaticMeshActor_46
+[2026.05.29-12.08.05:033][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.05.29-12.08.05:036][610]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2026.05.29-12.08.05:041][610]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Magic_crystal/magic_crystal/StaticMeshes/magic_crystal.magic_crystal
+[2026.05.29-12.08.05:041][610]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Magic_crystal/magic_crystal/StaticMeshes/magic_crystal.magic_crystal
+[2026.05.29-12.08.05:044][610]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Magic_crystal/magic_crystal/StaticMeshes/magic_crystal.magic_crystal as actor: StaticMeshActor /Game/Maps/Underground.Underground:PersistentLevel.StaticMeshActor_47
+[2026.05.29-12.08.49:354][893]Cmd: TRANSACTION UNDO
+[2026.05.29-12.08.49:354][893]LogEditorTransaction: Undo Scale Elements
+[2026.05.29-12.09.13:064][674]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.29-12.09.13:372][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.29-12.09.13:401][674]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Underground
+[2026.05.29-12.09.13:507][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.105654s)
+[2026.05.29-12.09.13:507][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Underground.Underground to /Game/Maps/UEDPIE_0_Underground.Underground (0.105707s)
+[2026.05.29-12.09.13:523][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.05.29-12.09.13:529][674]LogChaosDD: Creating Chaos Debug Draw Scene for world Underground
+[2026.05.29-12.09.13:532][674]LogPlayLevel: PIE: World Init took: (0.001959s)
+[2026.05.29-12.09.13:533][674]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.05.29-12.09.13:533][674]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.29-12.09.13:533][674]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.29-12.09.13:533][674]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.29-12.09.13:533][674]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.29-12.09.13:533][674]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.29-12.09.13:533][674]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.29-12.09.13:533][674]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.29-12.09.13:533][674]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.29-12.09.13:533][674]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.29-12.09.13:533][674]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.29-12.09.13:533][674]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.29-12.09.13:535][674]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.29-12.09.13:556][674]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.05.29-12.09.13:556][674]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.29-12.09.13:556][674]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.29-12.09.13:557][674]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.29-12.09.13:557][674]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.05.29-12.09.13:557][674]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.05.29-12.09.13:560][674]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.05.29-12.09.13:560][674]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.05.29-12.09.13:560][674]LogInit: FAudioDevice initialized with ID 4.
+[2026.05.29-12.09.13:560][674]LogAudio: Display: Audio Device (ID: 4) registered with world 'Underground'.
+[2026.05.29-12.09.13:560][674]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.05.29-12.09.13:564][674]LogLoad: Game class is 'MyGame_C'
+[2026.05.29-12.09.13:579][674]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Underground.Underground up for play (max tick rate 0) at 2026.05.29-21.09.13
+[2026.05.29-12.09.13:608][674]LogWorld: Bringing up level for play took: 0.044074
+[2026.05.29-12.09.13:611][674]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2026.05.29-12.09.13:696][674]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2026.05.29-12.09.13:696][674]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2026.05.29-12.09.13:696][674]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2026.05.29-12.09.13:698][674]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2026.05.29-12.09.13:699][674]PIE: Server logged in
+[2026.05.29-12.09.13:701][674]PIE: Play in editor total start time 0,33 seconds.
+[2026.05.29-12.09.13:797][675]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 768
+[2026.05.29-12.09.16:582][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.29-12.09.16:582][915]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Underground
+[2026.05.29-12.09.16:583][915]LogWorld: UWorld::CleanupWorld for Underground, bSessionEnded=true, bCleanupResources=true
+[2026.05.29-12.09.16:587][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.29-12.09.16:589][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.29-12.09.16:593][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.29-12.09.16:609][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.29-12.09.16:612][915]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.05.29-12.09.16:612][915]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.05.29-12.09.16:615][915]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.05.29-12.09.16:624][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.05.29-12.09.16:696][916]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2026.05.29-12.09.24:975][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.29-12.09.25:029][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Underground" FILE="../../../../Astrum-Underground-Level/AstrumLevel/Content/Maps/Underground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.29-12.09.25:063][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.05.29-12.09.25:567][526]LogSavePackage: Moving output files for package: /Game/Maps/Underground
+[2026.05.29-12.09.25:569][526]LogSavePackage: Moving '../../../../Astrum-Underground-Level/AstrumLevel/Saved/Underground325B08214AC7F5C72E36A8987B914282.tmp' to '../../../../Astrum-Underground-Level/AstrumLevel/Content/Maps/Underground.umap'
+[2026.05.29-12.09.25:582][526]LogFileHelpers: Saving map 'Underground' took 0.553
+[2026.05.29-12.09.25:590][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 615.195 ms (total: 18.3 sec)
+[2026.05.29-12.09.25:647][526]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.29-12.09.25:647][526]LogContentValidation: Enabled validators:
+[2026.05.29-12.09.25:647][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.29-12.09.25:647][526]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.29-12.09.25:647][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.29-12.09.25:647][526]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.29-12.09.25:647][526]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.29-12.09.25:647][526]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.29-12.09.25:648][526]AssetCheck: /Game/Maps/Underground Validating asset
+[2026.05.29-12.09.44:618][794]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_LV_Soul_Foliage021SM.SM_LV_Soul_Foliage021SM
+[2026.05.29-12.09.44:618][794]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_LV_Soul_Foliage021SM.SM_LV_Soul_Foliage021SM
+[2026.05.29-12.09.44:619][794]LogActorFactory: Actor Factory spawned StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_LV_Soul_Foliage021SM.SM_LV_Soul_Foliage021SM as actor: StaticMeshActor /Game/Maps/Underground.Underground:PersistentLevel.StaticMeshActor_48
+[2026.05.29-12.09.46:906][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.05.29-12.09.46:917][954]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2026.05.29-12.09.46:924][954]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_LV_Soul_Foliage021SM.SM_LV_Soul_Foliage021SM
+[2026.05.29-12.09.46:926][954]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_LV_Soul_Foliage021SM.SM_LV_Soul_Foliage021SM
+[2026.05.29-12.09.46:928][954]LogActorFactory: Actor Factory spawned StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_LV_Soul_Foliage021SM.SM_LV_Soul_Foliage021SM as actor: StaticMeshActor /Game/Maps/Underground.Underground:PersistentLevel.StaticMeshActor_49
+[2026.05.29-12.09.55:724][579]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern.SM_S_Soul_Plants_Fern
+[2026.05.29-12.09.55:724][579]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern.SM_S_Soul_Plants_Fern
+[2026.05.29-12.09.55:725][579]LogActorFactory: Actor Factory spawned StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern.SM_S_Soul_Plants_Fern as actor: StaticMeshActor /Game/Maps/Underground.Underground:PersistentLevel.StaticMeshActor_50
+[2026.05.29-12.09.59:475][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.05.29-12.09.59:486][894]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2026.05.29-12.09.59:493][894]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern.SM_S_Soul_Plants_Fern
+[2026.05.29-12.09.59:493][894]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern.SM_S_Soul_Plants_Fern
+[2026.05.29-12.09.59:497][894]LogActorFactory: Actor Factory spawned StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern.SM_S_Soul_Plants_Fern as actor: StaticMeshActor /Game/Maps/Underground.Underground:PersistentLevel.StaticMeshActor_51
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: ================================================
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Total job queries 4370, among them cache hits 2761 (63.18%), DDC hits 373 (8.54%), Duplicates 134 (3.07%)
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Tracking 1475 distinct input hashes that result in 976 distinct outputs (66.17%)
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: RAM used: 9,38 MiB of 1,60 GiB budget. Usage: 0.57%
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Shaders Compiled: 1101
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Jobs assigned 1101, completed 1101 (100%)
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Average time worker was idle: 69.13 s
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Time job spent in pending queue: average 5.62 s, longest 30.52 s
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Job execution time: average 0.95 s, max 8.19 s
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Job life time (pending + execution): average 6.57 s, max 31.15
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Shader code size: total 9,938 MiB, numShaders 1219, average 8,349 KiB, min 2,625 KiB, max 33,008 KiB
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 202.77 s
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Jobs were issued in 1101 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Average processing rate: 5.43 jobs/sec
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Total thread time: 862,278 s
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Total thread preprocess time: 52,831 s
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Percentage time preprocessing: 6.13%
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Effective parallelization: 4.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.531552
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    6 times, average 1.75 sec, max 2.03 sec, min 1.66 sec)
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    6 times, average 1.69 sec, max 2.04 sec, min 1.59 sec)
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   72 times, average 1.67 sec, max 3.38 sec, min 0.93 sec)
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    6 times, average 1.40 sec, max 1.52 sec, min 1.32 sec)
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   59 times, average 1.19 sec, max 1.98 sec, min 0.63 sec)
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 13.92% of total time (compiled   72 times, average 1.67 sec, max 3.38 sec, min 0.93 sec)
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.96% of total time (compiled  181 times, average 0.62 sec, max 1.38 sec, min 0.31 sec)
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.13% of total time (compiled   59 times, average 1.19 sec, max 1.98 sec, min 0.63 sec)
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display:                                                 FLumenCardPS - 7.63% of total time (compiled  123 times, average 0.54 sec, max 1.16 sec, min 0.27 sec)
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.42% of total time (compiled   79 times, average 0.81 sec, max 1.63 sec, min 0.37 sec)
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: === Material stats ===
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Materials Translated:    605
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Material Total Translate Time: 1.41 s
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Material Translation Only: 0.63 s (44%)
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: Material Cache Hits: 8 (1%)
+[2026.05.29-12.10.01:863][ 47]LogShaderCompilers: Display: ================================================
+[2026.05.29-12.10.05:073][285]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern2.SM_S_Soul_Plants_Fern2
+[2026.05.29-12.10.05:073][285]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern2.SM_S_Soul_Plants_Fern2
+[2026.05.29-12.10.05:075][285]LogActorFactory: Actor Factory spawned StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern2.SM_S_Soul_Plants_Fern2 as actor: StaticMeshActor /Game/Maps/Underground.Underground:PersistentLevel.StaticMeshActor_52
+[2026.05.29-12.10.06:911][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.05.29-12.10.06:915][447]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2026.05.29-12.10.06:919][447]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern2.SM_S_Soul_Plants_Fern2
+[2026.05.29-12.10.06:919][447]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern2.SM_S_Soul_Plants_Fern2
+[2026.05.29-12.10.06:923][447]LogActorFactory: Actor Factory spawned StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern2.SM_S_Soul_Plants_Fern2 as actor: StaticMeshActor /Game/Maps/Underground.Underground:PersistentLevel.StaticMeshActor_53
+[2026.05.29-12.11.32:439][ 22]Cmd: EDIT COPY
+[2026.05.29-12.11.33:410][103]Cmd: EDIT PASTE
+[2026.05.29-12.12.02:908][255]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10457.322266
+[2026.05.29-12.12.03:179][278]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-12.12.03:179][278]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10457.582031, Update Interval: 344.488647
+[2026.05.29-12.13.21:349][551]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern.SM_S_Soul_Plants_Fern
+[2026.05.29-12.13.21:349][551]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern.SM_S_Soul_Plants_Fern
+[2026.05.29-12.13.21:349][551]LogActorFactory: Actor Factory spawned StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern.SM_S_Soul_Plants_Fern as actor: StaticMeshActor /Game/Maps/Underground.Underground:PersistentLevel.StaticMeshActor_55
+[2026.05.29-12.13.24:204][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.05.29-12.13.24:210][737]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.05.29-12.13.24:214][737]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern.SM_S_Soul_Plants_Fern
+[2026.05.29-12.13.24:214][737]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern.SM_S_Soul_Plants_Fern
+[2026.05.29-12.13.24:216][737]LogActorFactory: Actor Factory spawned StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern.SM_S_Soul_Plants_Fern as actor: StaticMeshActor /Game/Maps/Underground.Underground:PersistentLevel.StaticMeshActor_56
+[2026.05.29-12.13.30:416][208]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern.SM_S_Soul_Plants_Fern
+[2026.05.29-12.13.30:416][208]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern.SM_S_Soul_Plants_Fern
+[2026.05.29-12.13.30:417][208]LogActorFactory: Actor Factory spawned StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern.SM_S_Soul_Plants_Fern as actor: StaticMeshActor /Game/Maps/Underground.Underground:PersistentLevel.StaticMeshActor_57
+[2026.05.29-12.13.31:830][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.05.29-12.13.31:836][331]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2026.05.29-12.13.31:840][331]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern.SM_S_Soul_Plants_Fern
+[2026.05.29-12.13.31:840][331]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern.SM_S_Soul_Plants_Fern
+[2026.05.29-12.13.31:842][331]LogActorFactory: Actor Factory spawned StaticMesh /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Plants_Fern.SM_S_Soul_Plants_Fern as actor: StaticMeshActor /Game/Maps/Underground.Underground:PersistentLevel.StaticMeshActor_58
+[2026.05.29-12.14.09:587][350]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.29-12.14.09:649][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Underground" FILE="../../../../Astrum-Underground-Level/AstrumLevel/Content/Maps/Underground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.29-12.14.10:025][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.29-12.14.10:526][350]LogSavePackage: Moving output files for package: /Game/Maps/Underground
+[2026.05.29-12.14.10:527][350]LogSavePackage: Moving '../../../../Astrum-Underground-Level/AstrumLevel/Saved/Underground3BF928C24748B416F821F0AADDAE803E.tmp' to '../../../../Astrum-Underground-Level/AstrumLevel/Content/Maps/Underground.umap'
+[2026.05.29-12.14.10:542][350]LogFileHelpers: Saving map 'Underground' took 0.894
+[2026.05.29-12.14.10:549][350]LogFileHelpers: InternalPromptForCheckoutAndSave took 961.468 ms (total: 19.2 sec)
+[2026.05.29-12.14.10:612][350]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.29-12.14.10:612][350]LogContentValidation: Enabled validators:
+[2026.05.29-12.14.10:612][350]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.29-12.14.10:612][350]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.29-12.14.10:612][350]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.29-12.14.10:612][350]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.29-12.14.10:612][350]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.29-12.14.10:612][350]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.29-12.14.10:612][350]AssetCheck: /Game/Maps/Underground Validating asset
+[2026.05.29-12.17.28:856][941]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
