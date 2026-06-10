@@ -1,17 +1,20 @@
-2026/05/29-18:20:06.948 7888 Creating DB D:/Unreal/Astrum-Underground-Level/AstrumLevel/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/05/29-18:20:07.207 7888 Reusing MANIFEST D:/Unreal/Astrum-Underground-Level/AstrumLevel/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/05/29-18:39:48.660 28f0 Level-0 table #5: started
-2026/05/29-18:39:48.915 28f0 Level-0 table #5: 72907 bytes OK
-2026/05/29-18:39:48.916 28f0 Delete type=0 #3
-2026/05/29-18:40:43.871 7888 Level-0 table #7: started
-2026/05/29-18:40:43.880 7888 Level-0 table #7: 69025 bytes OK
-2026/05/29-18:40:43.882 7888 Delete type=0 #4
-2026/05/29-18:42:21.317 28f0 Level-0 table #9: started
-2026/05/29-18:42:21.320 28f0 Level-0 table #9: 63727 bytes OK
-2026/05/29-18:42:21.321 28f0 Delete type=0 #6
-2026/05/29-18:47:23.310 7308 Level-0 table #11: started
-2026/05/29-18:47:23.313 7308 Level-0 table #11: 83328 bytes OK
-2026/05/29-18:47:23.314 7308 Delete type=0 #8
-2026/05/29-18:48:37.007 dbc Level-0 table #13: started
-2026/05/29-18:48:37.020 dbc Level-0 table #13: 73790 bytes OK
-2026/05/29-18:48:37.022 dbc Delete type=0 #10
+2026/06/11-01:06:54.229 3064 Reusing MANIFEST D:/Unreal/Astrum-Underground-Level/AstrumLevel/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/11-01:06:54.362 3064 Recovering log #12
+2026/06/11-01:06:54.405 3064 Level-0 table #15: started
+2026/06/11-01:06:54.592 3064 Level-0 table #15: 80746 bytes OK
+2026/06/11-01:06:54.653 3064 Delete type=0 #12
+2026/06/11-01:06:54.704 4d3c Compacting 4@0 + 1@1 files
+2026/06/11-01:06:55.205 4d3c Generated table #17@0: 3 keys, 27204 bytes
+2026/06/11-01:06:55.205 4d3c Compacted 4@0 + 1@1 files => 27204 bytes
+2026/06/11-01:06:55.258 4d3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/11-01:06:55.259 4d3c Delete type=2 #7
+2026/06/11-01:06:55.259 4d3c Delete type=2 #9
+2026/06/11-01:06:55.259 4d3c Delete type=2 #11
+2026/06/11-01:06:55.269 4d3c Delete type=2 #13
+2026/06/11-01:06:55.269 4d3c Delete type=2 #15
+2026/06/11-01:10:14.010 8ae4 Level-0 table #19: started
+2026/06/11-01:10:14.079 8ae4 Level-0 table #19: 89626 bytes OK
+2026/06/11-01:10:14.096 8ae4 Delete type=0 #16
+2026/06/11-01:11:27.503 6834 Level-0 table #21: started
+2026/06/11-01:11:27.536 6834 Level-0 table #21: 76347 bytes OK
+2026/06/11-01:11:27.537 6834 Delete type=0 #18

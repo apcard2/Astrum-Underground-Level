@@ -1,0 +1,17 @@
+2026/05/29-18:20:06.948 7888 Creating DB D:/Unreal/Astrum-Underground-Level/AstrumLevel/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2026/05/29-18:20:07.207 7888 Reusing MANIFEST D:/Unreal/Astrum-Underground-Level/AstrumLevel/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/05/29-18:39:48.660 28f0 Level-0 table #5: started
+2026/05/29-18:39:48.915 28f0 Level-0 table #5: 72907 bytes OK
+2026/05/29-18:39:48.916 28f0 Delete type=0 #3
+2026/05/29-18:40:43.871 7888 Level-0 table #7: started
+2026/05/29-18:40:43.880 7888 Level-0 table #7: 69025 bytes OK
+2026/05/29-18:40:43.882 7888 Delete type=0 #4
+2026/05/29-18:42:21.317 28f0 Level-0 table #9: started
+2026/05/29-18:42:21.320 28f0 Level-0 table #9: 63727 bytes OK
+2026/05/29-18:42:21.321 28f0 Delete type=0 #6
+2026/05/29-18:47:23.310 7308 Level-0 table #11: started
+2026/05/29-18:47:23.313 7308 Level-0 table #11: 83328 bytes OK
+2026/05/29-18:47:23.314 7308 Delete type=0 #8
+2026/05/29-18:48:37.007 dbc Level-0 table #13: started
+2026/05/29-18:48:37.020 dbc Level-0 table #13: 73790 bytes OK
+2026/05/29-18:48:37.022 dbc Delete type=0 #10
